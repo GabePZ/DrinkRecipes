@@ -1,5 +1,7 @@
 # Simple cocktail search engine
 
+Currently hosted at: https://cocktailsearchbar.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
