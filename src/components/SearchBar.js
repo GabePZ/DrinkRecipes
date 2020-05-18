@@ -1,7 +1,7 @@
 import React  from 'react';
 
 export const SearchBar = ({onSetSearchValue}) => {
-    let inputStyle = {color:"green", height:50, fontSize:50};
+    let inputStyle = {height:50, fontSize:50};
     
     return (
         <>
